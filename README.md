@@ -1,4 +1,4 @@
-## E ai Pessoal!!!
+## E ai Nerds!!! 
 
 > Aqui estão alguns dos meus projetos. Ainda há muito o que fazer. 
 > Faz alguns anos que tenho o GitHub, mas nunca usei de fato, porém estarei começando a usar mais efetivamente em 2022.
@@ -11,13 +11,15 @@
 > * Compras
 > * Estoque
 
-### Entre em contato
+### Sigam-me os bons...
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsviana@gmail.com)
 [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/rdgviana)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/r0drigo.viana)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rsviana)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-viana/)
+[![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rsviana)
+
 
 ### Dev in
 
@@ -37,5 +39,7 @@
 
 
 [![card](https://github-readme-stats.vercel.app/api?username=rsviana&theme=dark)](http://beacons.ai/rsviana)
-[![rsviana](https://github-readme-stats.vercel.app/api/top-langs/?username=rsviana&hide=html&layout=compact&theme=dark)](http://beacons.ai/rsviana)
 
+
+> É isso... 
+> Caso precise entre em contato, será um prazer conversar com você.
