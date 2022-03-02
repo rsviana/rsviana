@@ -30,7 +30,7 @@
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-> Minha linguagem principal atualmente, é o AdvPL, uma linguagem da TOTVS, empresa Brasileira de ERP Softwares e também o SQL.
+> Minha linguagem principal atualmente, é o JavaScript e AdvPL: uma linguagem da TOTVS, empresa Brasileira de ERP Softwares e também o SQL.
 
 ### Data Bases
 
