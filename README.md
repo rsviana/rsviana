@@ -3,13 +3,13 @@
 > Aqui estão alguns dos meus projetos. Ainda há muito o que fazer. 
 > Faz alguns anos que tenho o GitHub, mas nunca usei de fato, porém estarei começando a usar mais efetivamente em 2022.
 
-> Atualmente estou desenvolvendo para o ERP Protheus da TOTVS, por isso você irá encontrar muitos códigos de AdvPL ou TL++ por aqui. Mas também terá algumas outras coisas a mais.
-
-> Também presto consultoria para o mesmo sistema (Protheus) nos módulos
-> * Financeiro
-> * Faturamento
-> * Compras
-> * Estoque
+> Atualmente trabalho no Ministério da Saúde onde atuo como analista de requisitos e suporte.
+> Sou desenvolvedor Python e apaixonado por segurança da informação onde realizo alguns estudos
+>  * DESEC - Information Security - PenTest Profissional
+>  * Solyd Treinamentos - PenTest Profissional
+>  * IPO -MBA Inteligência e Inovação em Cybersecurity
+>
+>  Para saber mais me nos links abaixo
 
 ### Sigam-me os bons...
 
@@ -20,16 +20,13 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-viana/)
 
 
-
 ### Dev in
 
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-> Minha linguagem principal atualmente, é o JavaScript e AdvPL: uma linguagem da TOTVS, empresa Brasileira de ERP Softwares e também o SQL.
 
 ### Data Bases
 
@@ -43,3 +40,4 @@
 
 > É isso... 
 > Caso precise entre em contato, será um prazer conversar com você.
+> https://beacons.ai/rsviana
