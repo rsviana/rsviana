@@ -5,10 +5,11 @@
 
 > Atualmente trabalho no Ministério da Saúde onde atuo como analista de requisitos e suporte.
 > Sou desenvolvedor Python e apaixonado por segurança da informação onde realizo alguns estudos
->  * DESEC - Information Security - PenTest Profissional
->  * Solyd Treinamentos - PenTest Profissional
->  * IPO -MBA Inteligência e Inovação em Cybersecurity
->
+>  * DESEC - Information Security - PenTest Profissional - http://pentestprofissional.com.br
+>  * Solyd Treinamentos - PenTest Profissional - https://solyd.com.br/
+>  * IPOG -MBA Inteligência e Inovação em Cybersecurity - https://ipog.edu.br/
+>  > Irei lutar por algumas certificações.
+
 >  Para saber mais me nos links abaixo
 
 ### Sigam-me os bons...
