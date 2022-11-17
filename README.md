@@ -37,4 +37,4 @@
 
 > É isso... 
 > Caso precise entre em contato, será um prazer conversar com você.
-> https://beacons.ai/rsviana
+> https://vianas.dev
