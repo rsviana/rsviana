@@ -43,9 +43,9 @@
 ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=rsviana&theme=dark&show_icons=true)](http://beacons.ai/rsviana)
+[![card](https://github-readme-stats.vercel.app/api?username=rsviana&theme=dark&show_icons=true)](http://rsviana.com.br)
 
-
+[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=rsviana&theme=blue-green)
 
 > É isso... 
 > Caso precise entre em contato, será um prazer conversar com você.
