@@ -34,7 +34,8 @@
 ![image](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white  )
+![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) 
+![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white  )
 
 ### Data Bases
 
@@ -45,7 +46,7 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=rsviana&theme=dark&show_icons=true)](http://rsviana.com.br)
 
-[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=rsviana&theme=blue-green)
+![card](https://github-readme-stats.vercel.app/api/top-langs/?username=rsviana&theme=blue-green)
 
 > É isso... 
 > Caso precise entre em contato, será um prazer conversar com você.
