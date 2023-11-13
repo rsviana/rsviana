@@ -4,7 +4,7 @@
 > Faz alguns anos que tenho o GitHub, mas nunca usei de fato, porém estarei começando a usar mais efetivamente em 2022.
 
 > Atualmente trabalho no Ministério da Saúde onde atuo como analista de requisitos e suporte.
-> Sou desenvolvedor Python e apaixonado por segurança da informação onde realizo alguns estudos
+> Sou desenvolvedor Python/Django, atuando como Dev Web Full Stack.
 
 
 
@@ -21,6 +21,9 @@
 ### Dev in
 
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Shell-ffc619?style=for-the-badge&logo=Shell&logoColor=black)
 
@@ -40,6 +43,6 @@
 > 
 >![image](https://img.shields.io/twitter/follow/rsviana?style=social)
 >
->http://vianas.dev
+>http://rsviana.com.br
 >
->![image](https://img.shields.io/website?url=http%3A%2F%2Fvianas.dev)
+>![image](https://img.shields.io/website?url=http%3A%2F%2Frsviana.com.br)
