@@ -1,58 +1,71 @@
-## E ai Nerds!!! 
+## Rodrigo Viana | Desenvolvedor TOTVS Protheus | ADVPL | TL++ | Customizações e Integrações
 
-> Aqui estão alguns dos meus projetos. Ainda há muito o que fazer. 
-> Faz alguns anos que tenho o GitHub, mas nunca usei de fato, porém estarei começando a usar mais efetivamente em 2022.
+Olá! Sou um profissional de tecnologia apaixonado por otimizar processos de negócio através de soluções ERP. Com uma sólida experiência em análise de sistemas e desenvolvimento, meu foco atual é a especialização no ecossistema TOTVS Protheus.
 
-> Atualmente trabalho no Ministério da Saúde onde atuo como analista de requisitos e suporte.
-> Sou desenvolvedor Python/Django, atuando como Dev Web Full Stack.
+Estou em uma jornada para me tornar um especialista em **Soluções de Logística (TMS e WMS)**, combinando conhecimento funcional dos módulos de Backoffice com a capacidade técnica em **ADVPL** para criar soluções que geram valor real e eficiência para as empresas.
 
+- 🔭 Atualmente estou aprofundando meus conhecimentos nos módulos **SIGATMS** e **SIGAWMS**.
+- 🌱 Estudando e desenvolvendo projetos em **ADVPL** para automação e customização de rotinas.
+- 🎯 Meu objetivo é atuar como **Consultor Funcional/Técnico Protheus**, com foco em projetos de implementação e melhoria na área de Supply Chain.
+- 💬 Fique à vontade para entrar em contato para falar sobre **TOTVS Protheus, Logística, ADVPL** ou qualquer desafio na área de ERP!
 
+---
 
->  Para saber mais me nos links abaixo
+### 🎯 Áreas de Especialização
 
-### Sigam-me os bons...
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">🔧</g-emoji> Desenvolvimento ERP</h3>
+      <ul>
+        <li>Customização de módulos Protheus (Backoffice, TMS, WMS )</li>
+        <li>Desenvolvimento de relatórios e dashboards</li>
+        <li>Criação de rotinas automatizadas em ADVPL</li>
+        <li>Otimização de performance e consultas SQL</li>
+        <li>Integração com PO-UI (Angular) para interfaces ricas</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3><g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji> Integrações</h3>
+      <ul>
+        <li>Desenvolvimento de APIs REST para conectar sistemas externos</li>
+        <li>Sincronização de dados entre plataformas (ETL )</li>
+        <li>Automação de processos inter-sistemas</li>
+        <li>Configuração de Webhooks e notificações em tempo real</li>
+        <li>Consumo de APIs de transportadoras e parceiros</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsviana@gmail.com)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rsviana)
-[![image](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.rsviana.com.br/)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-viana/)
+---
 
+### 🚀 Core Technologies & Tools
 
-### Skills
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **ERP Protheus** | ![Financeiro](https://img.shields.io/badge/Financeiro-Backoffice-1572B6?style=flat ) ![Faturamento](https://img.shields.io/badge/Faturamento-Backoffice-1572B6?style=flat ) ![Compras](https://img.shields.io/badge/Compras-Backoffice-1572B6?style=flat ) |
+| **Linguagens** | ![ADVPL](https://img.shields.io/badge/ADVPL-Programming-4D9B00?style=flat ) ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat ) ![JavaScript/TS](https://img.shields.io/badge/JS/TS-Framework-F7DF1E?style=flat ) |
+| **Databases & Cloud** | ![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=flat ) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat ) ![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat ) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-Version_Control-E44C30?style=flat ) ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=flat ) ![VSCode/TDS](https://img.shields.io/badge/VSCode/TDS-IDE-007ACC?style=flat ) |
 
-![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/Shell-ffc619?style=for-the-badge&logo=Shell&logoColor=black)
-![image](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+---
 
+### 🔗 Conecte-se Comigo
 
-### Tools
+[![Website](https://img.shields.io/badge/Website-rodrigoviana.dev.br-blue?style=for-the-badge&logo=google-chrome&logoColor=white )](http://rodrigoviana.dev.br )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/rodrigo-viana/ )
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white )](mailto:rsviana@gmail.com)
 
-![image](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![image](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) 
-![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white  )
+---
 
-### Data Bases
+### 📊 Minhas Estatísticas no GitHub
 
-![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
-[![card](https://github-readme-stats.vercel.app/api?username=rsviana&theme=dark&show_icons=true)](http://nexgenautomate.com.br)
-
-[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=rsviana&theme=blue-green)](http://nexgenautomate.com.br)
-
-> É isso... 
-> Caso precise entre em contato, será um prazer conversar com você.
-> 
->![image](https://img.shields.io/twitter/follow/rsviana?style=social)
->
->http://rodrigoviana.dev.br
->
->![image](https://img.shields.io/website?url=http://rodrigoviana.dev.br)
+<p align="center">
+  <a href="https://github.com/rsviana">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rsviana&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/rsviana">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsviana&layout=compact&theme=radical&hide_border=true&count_private=true" />
+  </a>
+</p>
