@@ -1,4 +1,4 @@
-## Rodrigo Viana | Desenvolvedor TOTVS Protheus | ADVPL | TL++ | Customizações e Integrações
+## Desenvolvedor TOTVS Protheus | ADVPL | TL++ | Customizações e Integrações
 
 Olá! Sou um profissional de tecnologia apaixonado por otimizar processos de negócio através de soluções ERP. Com uma sólida experiência em análise de sistemas e desenvolvimento, meu foco atual é a especialização no ecossistema TOTVS Protheus.
 
