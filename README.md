@@ -13,30 +13,9 @@ Estou em uma jornada para me tornar um especialista em **Soluções de Logístic
 
 ### 🎯 Áreas de Especialização
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">🔧</g-emoji> Desenvolvimento ERP</h3>
-      <ul>
-        <li>Customização de módulos Protheus (Backoffice, TMS, WMS )</li>
-        <li>Desenvolvimento de relatórios e dashboards</li>
-        <li>Criação de rotinas automatizadas em ADVPL</li>
-        <li>Otimização de performance e consultas SQL</li>
-        <li>Integração com PO-UI (Angular) para interfaces ricas</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3><g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji> Integrações</h3>
-      <ul>
-        <li>Desenvolvimento de APIs REST para conectar sistemas externos</li>
-        <li>Sincronização de dados entre plataformas (ETL )</li>
-        <li>Automação de processos inter-sistemas</li>
-        <li>Configuração de Webhooks e notificações em tempo real</li>
-        <li>Consumo de APIs de transportadoras e parceiros</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| 🔧 Desenvolvimento ERP | 🔗 Integrações |
+| :--- | :--- |
+| <ul><li>Customização de módulos Protheus (Backoffice, TMS, WMS)</li><li>Desenvolvimento de relatórios e dashboards</li><li>Criação de rotinas automatizadas em ADVPL</li><li>Otimização de performance e consultas SQL</li><li>Integração com PO-UI (Angular) para interfaces ricas</li></ul> | <ul><li>Desenvolvimento de APIs REST para conectar sistemas externos</li><li>Sincronização de dados entre plataformas (ETL)</li><li>Automação de processos inter-sistemas</li><li>Configuração de Webhooks e notificações em tempo real</li><li>Consumo de APIs de transportadoras e parceiros</li></ul> |
 
 ---
 
@@ -53,19 +32,27 @@ Estou em uma jornada para me tornar um especialista em **Soluções de Logístic
 
 ### 🔗 Conecte-se Comigo
 
-[![Website](https://img.shields.io/badge/Website-rodrigoviana.dev.br-blue?style=for-the-badge&logo=google-chrome&logoColor=white )](http://rodrigoviana.dev.br )
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/rodrigo-viana/ )
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white )](mailto:rsviana@gmail.com)
+<p align="left">
+  <a href="http://rodrigoviana.dev.br" target="_blank">
+    <img src="https://img.shields.io/badge/Website-rodrigoviana.dev.br-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://www.linkedin.com/in/rodrigo-viana/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:rsviana@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <a href="https://github.com/rsviana">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rsviana&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/rsviana">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsviana&layout=compact&theme=radical&hide_border=true&count_private=true" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rsviana&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub de rsviana" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsviana&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Linguagens mais usadas por rsviana" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsviana&theme=radical" alt="Card de Resumo do Perfil de rsviana"/>
 </p>
