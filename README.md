@@ -11,7 +11,7 @@ Estou em uma jornada para me tornar um especialista em **Soluções de Logístic
 
 ---
 
-### 🎯 Áreas de Especialização
+### 🎯 Especialização
 
 | 🔧 Desenvolvimento ERP | 🔗 Integrações |
 | :--- | :--- |
