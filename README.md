@@ -7,7 +7,7 @@ Estou em uma jornada para me tornar um especialista em **Soluções de Logístic
 - 🔭 Atualmente estou aprofundando meus conhecimentos nos módulos **SIGATMS** e **SIGAWMS**.
 - 🌱 Estudando e desenvolvendo projetos em **ADVPL** para automação e customização de rotinas.
 - 🎯 Meu objetivo é atuar como **Consultor Funcional/Técnico Protheus**, com foco em projetos de implementação e melhoria na área de Supply Chain.
-- 💬 Fique à vontade para entrar em contato para falar sobre **TOTVS Protheus, Logística, ADVPL** ou qualquer desafio na área de ERP!
+- 💬 Fique à vontade para entrar em contato para falar sobre **TOTVS Protheus e ADVPL** ou qualquer desafio na área de ERP Protheus!
 
 ---
 
