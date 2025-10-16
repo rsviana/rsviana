@@ -2,7 +2,7 @@
 
 Olá! Sou um profissional de tecnologia apaixonado por otimizar processos de negócio através de soluções ERP. Com uma sólida experiência em análise de sistemas e desenvolvimento, meu foco atual é a especialização no ecossistema TOTVS Protheus, onde atuo desde 2007.
 
-Estou em uma jornada para me tornar um especialista em **Soluções de Logística (TMS e WMS)**, combinando conhecimento funcional dos módulos de Backoffice com a capacidade técnica em **ADVPL** para criar soluções que geram valor real e eficiência para as empresas.
+Estou em uma jornada para aprimorar minha especialização em TOTVS Protheus, utilizando minha capacidade técnica em ADVPL e conhecimento nos módulos de Backoffice para criar soluções personalizadas que geram valor real e eficiência para as empresas.
 
 - 🔭 Atualmente estou aprofundando meus conhecimentos nos módulos **SIGATMS** e **SIGAWMS**.
 - 🌱 Estudando e desenvolvendo projetos em **ADVPL** para automação, customização de rotinas e **PO-UI**.
