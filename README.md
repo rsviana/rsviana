@@ -1,6 +1,6 @@
 ## Desenvolvedor TOTVS Protheus | ADVPL | TL++ | Customizações e Integrações
 
-Olá! Sou um profissional de tecnologia apaixonado por otimizar processos de negócio através de soluções ERP. Com uma sólida experiência em análise de sistemas e desenvolvimento, meu foco atual é a especialização no ecossistema TOTVS Protheus, onde atuo desde 2007.
+Olá! Sou um especialista em tecnologia com foco em otimizar processos de negócio através de soluções ERP. Desde 2007, dedico minha carreira ao ecossistema TOTVS Protheus, aplicando minha experiência em análise e desenvolvimento para entregar sistemas mais eficientes e alinhados às estratégias das empresas.
 
 Estou em uma jornada para aprimorar minha especialização em TOTVS Protheus, utilizando minha capacidade técnica em ADVPL e conhecimento nos módulos de Backoffice para criar soluções personalizadas que geram valor real e eficiência para as empresas.
 
