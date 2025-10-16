@@ -30,7 +30,7 @@ Estou em uma jornada para me tornar um especialista em **Soluções de Logístic
 
 ---
 
-### 🔗 Conecte-se Comigo
+### 🔗 Siga-me
 
 <p align="left">
   <a href="http://rodrigoviana.dev.br" target="_blank">
