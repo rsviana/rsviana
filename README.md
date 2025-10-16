@@ -8,6 +8,7 @@ Estou em uma jornada para me tornar um especialista em **Soluções de Logístic
 - 🌱 Estudando e desenvolvendo projetos em **ADVPL** para automação, customização de rotinas e **PO-UI**.
 - 🎯 Meu objetivo é atuar como **Consultor / Desenvolvedor TOTVS Protheus**, com foco em projetos de implementação e melhoria na área de Supply Chain.
 - 💬 Fique à vontade para entrar em contato para falar sobre **TOTVS Protheus e ADVPL** ou qualquer desafio na área de ERP Protheus!
+- 💡 Experiência com banco de dados SQL Server, Oracle e PostgreSQL, e administração de ambientes Linux no contexto do Protheus.
 
 ---
 
