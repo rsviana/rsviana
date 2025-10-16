@@ -5,7 +5,7 @@ Olá! Sou um profissional de tecnologia apaixonado por otimizar processos de neg
 Estou em uma jornada para me tornar um especialista em **Soluções de Logística (TMS e WMS)**, combinando conhecimento funcional dos módulos de Backoffice com a capacidade técnica em **ADVPL** para criar soluções que geram valor real e eficiência para as empresas.
 
 - 🔭 Atualmente estou aprofundando meus conhecimentos nos módulos **SIGATMS** e **SIGAWMS**.
-- 🌱 Estudando e desenvolvendo projetos em **ADVPL** para automação, customização de rotinas e PO-UI.
+- 🌱 Estudando e desenvolvendo projetos em **ADVPL** para automação, customização de rotinas e **PO-UI**.
 - 🎯 Meu objetivo é atuar como **Consultor / Desenvolvedor TOTVS Protheus**, com foco em projetos de implementação e melhoria na área de Supply Chain.
 - 💬 Fique à vontade para entrar em contato para falar sobre **TOTVS Protheus e ADVPL** ou qualquer desafio na área de ERP Protheus!
 
