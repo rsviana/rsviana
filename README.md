@@ -28,7 +28,7 @@ Estou em uma jornada para aprimorar minha especialização em TOTVS Protheus, ut
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **ERP Protheus** | ![Financeiro](https://img.shields.io/badge/Financeiro-Backoffice-1572B6?style=flat ) ![Faturamento](https://img.shields.io/badge/Faturamento-Backoffice-1572B6?style=flat ) ![Compras](https://img.shields.io/badge/Compras-Backoffice-1572B6?style=flat ) |
-| **Linguagens** | ![ADVPL](https://img.shields.io/badge/ADVPL-Programming-4D9B00?style=flat ) ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat ) ![JavaScript/TS](https://img.shields.io/badge/JS/TS-Framework-F7DF1E?style=flat ) |
+| **Linguagens** | ![ADVPL](https://img.shields.io/badge/ADVPL-TOTVS-3776AB?style=flat ) ![Python](https://img.shields.io/badge/Python-3.x-4D9B00?style=flat ) ![JavaScript/TS](https://img.shields.io/badge/JS/TS-Framework-F7DF1E?style=flat ) |
 | **Databases & Cloud** | ![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=flat ) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat ) ![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat ) |
 | **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-Version_Control-E44C30?style=flat ) ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=flat ) ![VSCode/TDS](https://img.shields.io/badge/VSCode/TDS-IDE-007ACC?style=flat ) |
 
