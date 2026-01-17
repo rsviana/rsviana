@@ -2,7 +2,7 @@
 
 Olá! Sou um especialista em tecnologia com foco em otimizar processos de negócio através de soluções ERP. Desde 2007, dedico minha carreira ao ecossistema TOTVS Protheus, aplicando minha experiência em análise e desenvolvimento para entregar sistemas mais eficientes e alinhados às estratégias das empresas.
 Para conhecer mais sobre minha trajetória e projetos, visite meu site: 
-#### 🔗https://rodrigoviana.dev.br 👈
+#### 🔗http://rodrigoviana.dev.br 👈
 
 
 Estou em uma jornada para aprimorar minha especialização em TOTVS Protheus, utilizando minha capacidade técnica em ADVPL e conhecimento nos módulos de Backoffice para criar soluções personalizadas que geram valor real e eficiência para as empresas.
