@@ -1,9 +1,10 @@
-## Desenvolvedor TOTVS Protheus | ADVPL | TL++ | Customizações e Integrações
+## Entusiasta em Tecnologia (Segurança da Informação, Redes e Desenvolvimento)
 
-Olá! Sou um especialista em tecnologia com foco em otimizar processos de negócio através de soluções ERP. Desde 2007, dedico minha carreira ao ecossistema TOTVS Protheus, aplicando minha experiência em análise e desenvolvimento para entregar sistemas mais eficientes e alinhados às estratégias das empresas.
+Olá! Sou um apaixonado por tecnologia, ultimamente focado em otimizar processos de negócio através de soluções ERP Protheus (TOTVS). Desde 2007, dedico minha carreira nesse ecossistema TOTVS, aplicando minha experiência em análise e desenvolvimento para entregar sistemas mais eficientes e alinhados às estratégias das empresas.
 Para conhecer mais sobre minha trajetória e projetos, visite meu site: 
 #### 🔗http://rodrigoviana.dev.br 👈
 
+> Aqui teremos alguns projetos voltados a Segurança (estudos) e AdvPL, além de outras coisas que eu acho interessante estar aqui...
 
 Estou em uma jornada para aprimorar minha especialização em TOTVS Protheus, utilizando minha capacidade técnica em ADVPL e conhecimento nos módulos de Backoffice para criar soluções personalizadas que geram valor real e eficiência para as empresas.
 
