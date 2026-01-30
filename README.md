@@ -1,4 +1,4 @@
-## Entusiasta em Tecnologia (Segurança da Informação, Redes e Desenvolvimento)
+## Entusiasta em Tecnologia (Segurança da Informação, Redes e Desenvolvimento - AdvPL e Python)
 
 Olá! Sou um apaixonado por tecnologia, ultimamente focado em otimizar processos de negócio através de soluções ERP Protheus (TOTVS). Desde 2007, dedico minha carreira nesse ecossistema TOTVS, aplicando minha experiência em análise e desenvolvimento para entregar sistemas mais eficientes e alinhados às estratégias das empresas.
 Para conhecer mais sobre minha trajetória e projetos, visite meu site: 
