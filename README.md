@@ -1,37 +1,39 @@
-## Especialista em Ecossistema TOTVS Protheus | CyberSecurity & Pentest | Dev SecOps | Infraestrutura Crítica
+## 🛡️ Especialista em Ecossistema TOTVS Protheus | CyberSecurity & Pentest | DevSecOps | Infraestrutura Crítica
 
-Olá! Sou um apaixonado por tecnologia, ultimamente focado em otimizar processos de negócio através de soluções ERP Protheus (TOTVS). Desde 2007, dedico minha carreira nesse ecossistema TOTVS, aplicando minha experiência em análise e desenvolvimento para entregar sistemas mais eficientes e alinhados às estratégias das empresas.
-Para conhecer mais sobre minha trajetória e projetos, visite meu site: 
-#### 🔗http://rodrigoviana.dev.br 👈
+Olá! Sou um estrategista de tecnologia com mais de 20 anos de jornada, focado em **blindar e otimizar** o coração das empresas: o ERP Protheus. Minha trajetória inclui passagens pela própria TOTVS e, atualmente, dedico minha expertise a unir o desenvolvimento ADVPL de alta performance com a mentalidade ofensiva da Cibersegurança.
 
-> Aqui teremos alguns projetos voltados a Segurança (estudos) e AdvPL, além de outras coisas que eu acho interessante estar aqui...
+Para conhecer meu framework de trabalho e soluções de auditoria, visite:
+#### 🔗 [rodrigoviana.dev.br](http://rodrigoviana.dev.br) 👈
 
-Estou em uma jornada para aprimorar minha especialização em TOTVS Protheus, utilizando minha capacidade técnica em ADVPL e conhecimento nos módulos de Backoffice para criar soluções personalizadas que geram valor real e eficiência para as empresas.
-
-- 🔭 Atualmente estou aprofundando meus conhecimentos nos módulos **SIGATMS** e **SIGAWMS**.
-- 🌱 Estudando e desenvolvendo projetos em **ADVPL** para automação, customização de rotinas e **PO-UI**.
-- 🎯 Meu objetivo é atuar como **Consultor / Desenvolvedor TOTVS Protheus**, com foco em projetos de implementação e melhoria na área de Supply Chain.
-- 💬 Fique à vontade para entrar em contato para falar sobre **TOTVS Protheus e ADVPL** ou qualquer desafio na área de ERP Protheus!
-- 💡 Experiência com banco de dados SQL Server, Oracle e PostgreSQL, e administração de ambientes Linux no contexto do Protheus.
+> **Foco Atual:** Auditoria de segurança em ambientes TOTVS, Pentest de Infraestrutura ERP e desenvolvimento de uma LLM especializada em Code Review de fontes ADVPL/TLPP.
 
 ---
 
-### 🎯 Especialização
+### 🎯 Especialização Híbrida
 
-| 🔧 Desenvolvimento ERP | 🔗 Integrações |
+- 🔭 **Segurança Ofensiva:** Realizando auditorias de segurança (Pentest) em ambientes Protheus, focando em vulnerabilidades de infraestrutura e aplicações.
+- 🌱 **Desenvolvimento Seguro:** Especialista em ADVPL e PO-UI, aplicando práticas de DevSecOps para evitar brechas como SQL Injection e Broken Access Control.
+- 🎯 **Objetivo:** Atuar como Consultor de Segurança ERP, garantindo a integridade de dados críticos e conformidade técnica (LGPD).
+- 💡 **Senioridade:** Domínio profundo de AppServer, DBAccess, SmartClient e administração de ambientes críticos em Linux/Cloud.
+
+---
+
+### 🛡️ Cyber & ERP Stack
+
+| 🔧 Auditoria & Segurança | 💻 Desenvolvimento Protheus |
 | :--- | :--- |
-| <ul><li>Customização de módulos Protheus (Backoffice, TMS, WMS)</li><li>Desenvolvimento de relatórios e dashboards</li><li>Criação de rotinas automatizadas em ADVPL</li><li>Otimização de performance e consultas SQL</li><li>Integração com PO-UI (Angular) para interfaces ricas</li></ul> | <ul><li>Desenvolvimento de APIs REST para conectar sistemas externos</li><li>Sincronização de dados entre plataformas (ETL)</li><li>Automação de processos inter-sistemas</li><li>Configuração de Webhooks e notificações em tempo real</li><li>Consumo de APIs de transportadoras e parceiros</li></ul> |
+| <ul><li>**Pentest Wi-Fi & Infra:** Foco em ambientes industriais/logísticos</li><li>**Hardening de AppServer:** Configuração de SSL/TLS e blindagem de .INI</li><li>**Code Review:** Identificação de falhas em customizações complexas</li><li>**Auditoria SQL:** Proteção de bancos de dados SQL Server/Oracle</li></ul> | <ul><li>**ADVPL/TLPP:** Desenvolvimento de rotinas core e APIs REST seguras</li><li>**PO-UI (Angular):** Interfaces modernas com autenticação robusta</li><li>**Performance:** Otimização de queries e processos de Backoffice</li><li>**Integrações:** Sincronização segura de dados via Webhooks/API</li></ul> |
 
 ---
 
-### 🚀 Core Technologies & Tools
+### 🚀 Technologies & Tools
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **ERP Protheus** | ![Financeiro](https://img.shields.io/badge/Financeiro-Backoffice-1572B6?style=flat ) ![Faturamento](https://img.shields.io/badge/Faturamento-Backoffice-1572B6?style=flat ) ![Compras](https://img.shields.io/badge/Compras-Backoffice-1572B6?style=flat ) |
-| **Linguagens** | ![ADVPL](https://img.shields.io/badge/ADVPL-TOTVS-3776AB?style=flat ) ![Python](https://img.shields.io/badge/Python-3.x-4D9B00?style=flat ) ![JavaScript/TS](https://img.shields.io/badge/JS/TS-Framework-F7DF1E?style=flat ) |
-| **Databases & Cloud** | ![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=flat ) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat ) ![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat ) |
-| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-Version_Control-E44C30?style=flat ) ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=flat ) ![VSCode/TDS](https://img.shields.io/badge/VSCode/TDS-IDE-007ACC?style=flat ) |
+| **Security Ops** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-Security-557C94?style=flat&logo=kali-linux) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-Offensive-orange?style=flat) ![Metasploit](https://img.shields.io/badge/Metasploit-Pentest-black?style=flat) |
+| **Linguagens** | ![ADVPL](https://img.shields.io/badge/ADVPL-TOTVS-3776AB?style=flat) ![TLPP](https://img.shields.io/badge/TLPP-Protheus-007ACC?style=flat) ![Python](https://img.shields.io/badge/Python-Security_Scripts-4D9B00?style=flat) |
+| **Databases** | ![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=flat) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat) ![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=flat) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=flat) ![Git](https://img.shields.io/badge/Git-Security_Audit-E44C30?style=flat) ![Linux](https://img.shields.io/badge/Linux-Server_Hardening-FCC624?style=flat&logo=linux&logoColor=black) |
 
 ---
 
