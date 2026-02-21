@@ -5,7 +5,7 @@ Olá! Sou um estrategista de tecnologia com mais de 20 anos de jornada, focado e
 Para conhecer meu framework de trabalho e soluções de auditoria, visite:
 #### 🔗 [rodrigoviana.dev.br](http://rodrigoviana.dev.br) 👈
 
-> **Foco Atual:** Auditoria de segurança em ambientes TOTVS, Pentest de Infraestrutura ERP e desenvolvimento de uma LLM especializada em Code Review de fontes ADVPL/TLPP.
+> Auditoria de segurança em ambientes TOTVS, Pentest de Infraestrutura ERP e desenvolvimento de uma LLM especializada em Code Review de fontes ADVPL/TLPP.
 
 ---
 
