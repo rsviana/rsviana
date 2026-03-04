@@ -1,43 +1,48 @@
-## 🛡️ Especialista em Ecossistema TOTVS Protheus | CyberSecurity & Pentest | DevSecOps | Infraestrutura Crítica
+## ADVPL Developer | Protheus Architecture & Integrations | Python | SQL | ERP Security
 
-Olá! Sou um estrategista de tecnologia com mais de 20 anos de jornada, focado em **blindar e otimizar** o coração das empresas: o ERP Protheus. Minha trajetória inclui passagens pela própria TOTVS e, atualmente, dedico minha expertise a unir o desenvolvimento ADVPL de alta performance com a mentalidade ofensiva da Cibersegurança.
+Olá! Sou um desenvolvedor sênior com mais de 20 anos de experiência transformando regras de negócio complexas em soluções de software de alta performance. Com passagens pela própria TOTVS, hoje foco em elevar o nível das customizações Protheus através de arquiteturas modernas, APIs seguras e domínio completo da stack de dados.
 
-Para conhecer meu framework de trabalho e soluções de auditoria, visite:
-#### 🔗 [rodrigoviana.dev.br](http://rodrigoviana.dev.br) 👈
+Para conhecer meus projetos e frameworks, visite:
+#### 🔗 [rodrigoviana.dev.br](http://rodrigoviana.dev.br)
 
-> Auditoria de segurança em ambientes TOTVS, Pentest de Infraestrutura ERP e desenvolvimento de uma LLM especializada em Code Review de fontes ADVPL/TLPP.
-
----
-
-### 🎯 Especialização Híbrida
-
-- 🔭 **Segurança Ofensiva:** Realizando auditorias de segurança (Pentest) em ambientes Protheus, focando em vulnerabilidades de infraestrutura e aplicações.
-- 🌱 **Desenvolvimento Seguro:** Especialista em ADVPL e PO-UI, aplicando práticas de DevSecOps para evitar brechas como SQL Injection e Broken Access Control.
-- 🎯 **Objetivo:** Atuar como Consultor de Segurança ERP, garantindo a integridade de dados críticos e conformidade técnica (LGPD).
-- 💡 **Senioridade:** Domínio profundo de AppServer, DBAccess, SmartClient e administração de ambientes críticos em Linux/Cloud.
+> Focado em desenvolvimento de APIs RESTful, interfaces PO-UI, automações com Python e otimização de ambientes críticos de banco de dados (SQL Server, Oracle, Postgres).
 
 ---
 
-### 🛡️ Cyber & ERP Stack
+### 🎯 Expertise Técnica
 
-| 🔧 Auditoria & Segurança | 💻 Desenvolvimento Protheus |
+- 🔭 **Ecossistema Protheus:** Especialista em ADVPL e TLPP, desenvolvendo desde rotinas de Backoffice (Financeiro/Faturamento) até arquiteturas MVC complexas e Schedule.
+- 🌱 **Modern Web & Mobile:** Experiência com PO-UI (Angular) e JavaScript para criar interfaces que trazem a usabilidade moderna para dentro do ERP.
+- 🐍 **Automação & IA:** Utilizando Python para scripts de integração, manipulação de dados em larga escala e desenvolvimento de LLMs aplicadas à análise de código.
+- 💾 **DBA & Performance:** Domínio em MSSQL, Oracle e PostgreSQL, com foco em otimização de queries, Stored Procedures e integridade transacional via DBAccess.
+
+---
+
+### 💻 Development Stack
+
+| ⚙️ Back-end & ERP Core | 🌐 Front-end & Integração |
 | :--- | :--- |
-| <ul><li>**Pentest Wi-Fi & Infra:** Foco em ambientes industriais/logísticos</li><li>**Hardening de AppServer:** Configuração de SSL/TLS e blindagem de .INI</li><li>**Code Review:** Identificação de falhas em customizações complexas</li><li>**Auditoria SQL:** Proteção de bancos de dados SQL Server/Oracle</li></ul> | <ul><li>**ADVPL/TLPP:** Desenvolvimento de rotinas core e APIs REST seguras</li><li>**PO-UI (Angular):** Interfaces modernas com autenticação robusta</li><li>**Performance:** Otimização de queries e processos de Backoffice</li><li>**Integrações:** Sincronização segura de dados via Webhooks/API</li></ul> |
+| <ul><li>**ADVPL/TLPP:** MVC, Pontos de Entrada, User Functions e Classes</li><li>**Python:** Automação de processos e integração de sistemas</li><li>**Segurança:** Desenvolvimento blindado contra SQL Injection e falhas de lógica</li><li>**Arquitetura:** Tunagem de AppServer e gestão de RPO</li></ul> | <ul><li>**APIs REST/SOAP:** Construção de gateways de integração robustos</li><li>**PO-UI / Angular:** Dashboards modernos e portais de autoatendimento</li><li>**JavaScript/Node.js:** Extensões web e lógica de front-end</li><li>**CI/CD:** Versionamento seguro de fontes e gestão de builds</li></ul> |
 
 ---
 
-### 🚀 Technologies & Tools
+### 🛠️ Technologies & Tools
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Security Ops** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-Security-557C94?style=flat&logo=kali-linux) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-Offensive-orange?style=flat) ![Metasploit](https://img.shields.io/badge/Metasploit-Pentest-black?style=flat) |
-| **Linguagens** | ![ADVPL](https://img.shields.io/badge/ADVPL-TOTVS-3776AB?style=flat) ![TLPP](https://img.shields.io/badge/TLPP-Protheus-007ACC?style=flat) ![Python](https://img.shields.io/badge/Python-Security_Scripts-4D9B00?style=flat) |
-| **Databases** | ![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=flat) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat) ![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=flat) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=flat) ![Git](https://img.shields.io/badge/Git-Security_Audit-E44C30?style=flat) ![Linux](https://img.shields.io/badge/Linux-Server_Hardening-FCC624?style=flat&logo=linux&logoColor=black) |
+| **Linguagens** | ![ADVPL](https://img.shields.io/badge/ADVPL-TOTVS-3776AB?style=flat) ![TLPP](https://img.shields.io/badge/TLPP-Protheus-007ACC?style=flat) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Databases** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) |
+| **Web & API** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![PO-UI](https://img.shields.io/badge/PO--UI-Digital_Design-00b1ef?style=flat) ![REST](https://img.shields.io/badge/REST-API-lightgrey?style=flat) |
+| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 
 ---
 
-### 🔗 Siga-me
+### 📈 Trajetória de Valor
+Meu foco é garantir que o Protheus não seja apenas um ERP, mas uma plataforma de inovação. Minhas entregas unem a estabilidade necessária para dados fiscais/financeiros com a agilidade de tecnologias open-source.
+
+---
+
+### 🔗 Conecte-se Comigo
 
 <p align="left">
   <a href="http://rodrigoviana.dev.br" target="_blank">
