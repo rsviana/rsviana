@@ -1,44 +1,44 @@
-## ADVPL Developer | Protheus Architecture & Integrations | Python | SQL | ERP Security
+## Senior Software Engineer | Offensive Security Specialist (Postgrad) | Cyber Investigation 🛡️⚔️
 
-Olá! Sou um desenvolvedor sênior com mais de 20 anos de experiência transformando regras de negócio complexas em soluções de software de alta performance. Com passagens pela própria TOTVS, hoje foco em elevar o nível das customizações Protheus através de arquiteturas modernas, APIs seguras e domínio completo da stack de dados.
+Olá! Sou um desenvolvedor sênior com mais de 20 anos de bagagem técnica em sistemas críticos e arquiteturas corporativas (Protheus/TOTVS). Atualmente, estou unindo essa senioridade com uma **Pós-Graduação em Segurança Ofensiva**, focada em testes de intrusão, análise de vulnerabilidades e defesa ativa.
 
 Para conhecer meus projetos e frameworks, visite:
 #### 🔗 [rodrigoviana.dev.br](http://rodrigoviana.dev.br)
 
-> Focado em desenvolvimento de APIs RESTful, interfaces PO-UI, automações com Python e otimização de ambientes críticos de banco de dados (SQL Server, Oracle, Postgres).
+> 🎯 **Roadmap Atual:** Concluindo Pós-Graduação em **Segurança Ofensiva (ACADI-TI)**. Especializando em Red Teaming, Pentesting e Auditoria, com foco futuro em Perícia Digital (IPOG).
 
 ---
 
-### 🎯 Expertise Técnica
+### 🛡️ Cybersecurity & Offensive Mindset
 
-- 🔭 **Ecossistema Protheus:** Especialista em ADVPL e TLPP, desenvolvendo desde rotinas de Backoffice (Financeiro/Faturamento) até arquiteturas MVC complexas e Schedule.
-- 🌱 **Modern Web & Mobile:** Experiência com PO-UI (Angular) e JavaScript para criar interfaces que trazem a usabilidade moderna para dentro do ERP.
-- 🐍 **Automação & IA:** Utilizando Python para scripts de integração, manipulação de dados em larga escala e desenvolvimento de LLMs aplicadas à análise de código.
-- 💾 **DBA & Performance:** Domínio em MSSQL, Oracle e PostgreSQL, com foco em otimização de queries, Stored Procedures e integridade transacional via DBAccess.
+- 🎓 **Pós-Graduando em Segurança Ofensiva (ACADI-TI):** Especialização em metodologias de ataque, exploração de falhas e hardening.
+- 🛡️ **Investigação Forense:** Unindo o conhecimento ofensivo à análise de evidências para entender a anatomia completa de um incidente.
+- 🌐 **Deep Networking:** Estudo contínuo de protocolos TCP/IP (Kurose Approach) para identificação de tráfego malicioso.
+- 🐍 **Security Automation:** Desenvolvimento de ferramentas em Python para automação de reconhecimento e análise de vulnerabilidades.
 
 ---
 
-### 💻 Development Stack
+### 🛠️ Technologies & Badges
 
-| ⚙️ Back-end & ERP Core | 🌐 Front-end & Integração |
+| Categoria | Tecnologias e Ferramentas |
 | :--- | :--- |
-| <ul><li>**ADVPL/TLPP:** MVC, Pontos de Entrada, User Functions e Classes</li><li>**Python:** Automação de processos e integração de sistemas</li><li>**Segurança:** Desenvolvimento blindado contra SQL Injection e falhas de lógica</li><li>**Arquitetura:** Tunagem de AppServer e gestão de RPO</li></ul> | <ul><li>**APIs REST/SOAP:** Construção de gateways de integração robustos</li><li>**PO-UI / Angular:** Dashboards modernos e portais de autoatendimento</li><li>**JavaScript/Node.js:** Extensões web e lógica de front-end</li><li>**CI/CD:** Versionamento seguro de fontes e gestão de builds</li></ul> |
+| **Security & Pentest** | ![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?style=flat&logo=kali-linux&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=portswigger&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4F5D95?style=flat) ![OWASP](https://img.shields.io/badge/OWASP-37474F?style=flat) |
+| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![ADVPL](https://img.shields.io/badge/ADVPL-TOTVS-3776AB?style=flat) ![TLPP](https://img.shields.io/badge/TLPP-Protheus-007ACC?style=flat) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
+| **Databases** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| **Infra & Web** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 
 ---
 
-### 🛠️ Technologies & Tools
+### 💻 Development Stack vs. Security Focus
 
-| Categoria | Tecnologias |
+| ⚙️ Back-end & ERP Core | 🔍 Offensive & Forensics Focus |
 | :--- | :--- |
-| **Linguagens** | ![ADVPL](https://img.shields.io/badge/ADVPL-TOTVS-3776AB?style=flat) ![TLPP](https://img.shields.io/badge/TLPP-Protheus-007ACC?style=flat) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Databases** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) |
-| **Web & API** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![PO-UI](https://img.shields.io/badge/PO--UI-Digital_Design-00b1ef?style=flat) ![REST](https://img.shields.io/badge/REST-API-lightgrey?style=flat) |
-| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| <ul><li>**ADVPL/TLPP:** MVC, Pontos de Entrada e Classes</li><li>**Arquitetura:** Tunagem de AppServer e gestão de RPO</li><li>**Integridade:** Garantia de regras de negócio fiscais/financeiras</li><li>**APIs:** Construção de gateways RESTful robustos</li></ul> | <ul><li>**Network Pentest:** Escaneamento e exploração de serviços</li><li>**Web Pentest:** Bypass de autenticação e injeção de código</li><li>**Forensics:** Análise de artefatos e preservação de evidências</li><li>**Hardening:** Auditoria de infraestrutura e bases de dados</li></ul> |
 
 ---
 
 ### 📈 Trajetória de Valor
-Meu foco é garantir que o Protheus não seja apenas um ERP, mas uma plataforma de inovação. Minhas entregas unem a estabilidade necessária para dados fiscais/financeiros com a agilidade de tecnologias open-source.
+Minha visão une a **robustez do desenvolvimento sênior** com a **astúcia da investigação ofensiva**. Entendo como os sistemas são construídos, o que me permite identificar com precisão como eles podem ser comprometidos ou protegidos.
 
 ---
 
@@ -58,13 +58,8 @@ Meu foco é garantir que o Protheus não seja apenas um ERP, mas uma plataforma 
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 Estatísticas
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rsviana&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub de rsviana" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsviana&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Linguagens mais usadas por rsviana" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsviana&theme=radical" alt="Card de Resumo do Perfil de rsviana"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rsviana&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 </p>
