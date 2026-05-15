@@ -1,4 +1,4 @@
-## Senior Software Engineer | Offensive Security Specialist (Postgrad) | Cyber Investigation 🛡️⚔️
+## Senior Software Engineer (AdvPL and Python) | Offensive Security Specialist (Postgrad) | Cyber Investigation 🛡️⚔️
 
 Olá! Sou um desenvolvedor sênior com mais de 20 anos de bagagem técnica em sistemas críticos e arquiteturas corporativas (Protheus/TOTVS). Atualmente, estou unindo essa senioridade com uma **Pós-Graduação em Segurança Ofensiva**, focada em testes de intrusão, análise de vulnerabilidades e defesa ativa.
 
