@@ -11,7 +11,7 @@ Olá! Sou um desenvolvedor sênior com mais de 20 anos de experiência em sistem
 
 ## 🛡️ Cybersecurity & Offensive Security
 
-- 🎓 Pós-Graduando em Segurança Ofensiva
+- 🎓 Pós-Graduando em Segurança Ofensiva (Acadi-TI)
 - 🔍 Estudos em Pentest Web e Network Pentest
 - 🧠 Investigação Forense e análise de evidências digitais
 - 🌐 Networking e análise de protocolos TCP/IP
