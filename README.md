@@ -1,4 +1,4 @@
-## Senior Software Engineer (AdvPL & Python) | Cybersecurity | Digital Forensics 🛡️⚔️
+## Senior Software Engineer (AdvPL & Python) | Cybersecurity | RedTeam 🛡️⚔️
 
 Olá! Sou um desenvolvedor sênior com mais de 20 anos de experiência em sistemas críticos, arquitetura corporativa e ERP (TOTVS/Protheus). Atualmente, estou expandindo minha atuação para Cybersecurity, com foco em Segurança Ofensiva, Pentest, Red Teaming e Investigação Forense Digital.
 
