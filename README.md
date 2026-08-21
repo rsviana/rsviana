@@ -2,19 +2,19 @@
 
 ![Image](https://github.com/user-attachments/assets/64c04ffb-79d8-4549-aafa-075d21eadb23)
 
-Olá! Sou um desenvolvedor sênior com mais de 20 anos de experiência em sistemas críticos, arquitetura corporativa e ERP (TOTVS/Protheus). Atualmente, estou expandindo minha atuação para Cybersecurity, com foco em Segurança Ofensiva, Pentest, Red Teaming e Investigação Forense Digital.
+Atualmente, estou expandindo minha atuação para Cybersecurity, com foco em Segurança Ofensiva, Pentest, Red Teaming e Investigação Forense Digital.
 
 #### 🔗 Website
 [rodrigoviana.dev.br](http://rodrigoviana.dev.br)
 
-> 🎯 Atualmente focado em Offensive Security, Pentesting, Network Analysis e Digital Forensics.
+> 🎯 Focado em Offensive Security, Pentesting, Network Analysis e Digital Forensics.
 
 ---
 
 ## 🛡️ Cybersecurity & Offensive Security
 
 - 🎓 Pós-Graduando em Segurança Ofensiva (Acadi-TI)
-- 🔍 Estudos em Pentest Web e Network Pentest
+- 🔍 Estudos em Pentest Web e Network Pentest (DESEC and Solyd)
 - 🧠 Investigação Forense e análise de evidências digitais
 - 🌐 Networking e análise de protocolos TCP/IP
 - 🐍 Automação de segurança utilizando Python
