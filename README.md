@@ -1,4 +1,4 @@
-![Imagem](https://github.com/user-attachments/assets/fb4b53b4-baf6-4111-a320-359ace7de532)
+![Image](https://github.com/user-attachments/assets/64c04ffb-79d8-4549-aafa-075d21eadb23)
 
 
 ## Senior Software Engineer (AdvPL & Python) | Cybersecurity | RedTeam 🛡️⚔️
