@@ -1,6 +1,7 @@
 ## Senior Software Engineer (AdvPL & Python) | Cybersecurity | RedTeam 
 
-![Image](https://github.com/user-attachments/assets/64c04ffb-79d8-4549-aafa-075d21eadb23)
+![Image](https://github.com/rsviana/rsviana/issues/2#issue-5212994510)
+
 
 
 Atualmente, estou expandindo minha atuação para Cybersecurity, com foco em Segurança Ofensiva, Pentest, Red Teaming e Investigação Forense Digital.
