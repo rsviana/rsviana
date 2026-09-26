@@ -1,6 +1,8 @@
 ## Senior Software Engineer (AdvPL & Python) | Cybersecurity | RedTeam 
 
-![Image](https://github.com/rsviana/rsviana/issues/2#issue-5212994510)
+![Image](https://github.com/user-attachments/assets/5242a5fb-41cd-4e91-9338-36f505fe0c8e)
+
+
 
 
 
